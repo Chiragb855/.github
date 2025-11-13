@@ -1,71 +1,100 @@
-# **🌟 Chirag Bansal — Engineer, Explorer, System Thinker**
+# 🌌 **Chirag Bansal**
 
-I’m someone who can’t sit still in a single lane. My mind keeps wandering into circuits, colors, algorithms, psychology, and sometimes into pure chaos just to see what falls out.
-I build things that try to make sense of that chaos — fast systems, clean designs, and expressive tools that feel alive.
+### *Engineer • System Thinker • Explorer of chaotic ideas*
 
-Performance matters to me. Clarity matters even more. Every project I touch becomes a playground for structure, precision, and expression. I like the kind of puzzles where engineering hugs art and neither wants to let go.
+I like building things that feel alive. Not just “working code,” but systems that breathe—fast, precise, and quietly elegant. My work sits somewhere between engineering discipline and artistic chaos, where clarity fights entropy and usually wins.
 
----
-
-## **🧩 What I’m Currently Building**
-
-### **💡 LEACB (Let’s Explore About Chirag Bansal)**
-
-My personal home on the internet — a one-page hub for everything I create.
-Fast, minimal, hand-coded HTML/CSS/JS.
-A digital identity shaped around curiosity, performance, and expression.
-
-### **🎨 Auric Artisan**
-
-My artistic side — printable art, covers, stickers, and tiny design experiments.
-A combination of color psychology, aesthetic theory, and playful visuals.
-A small universe of beauty built one asset at a time.
-
-### **🎛️ Crygraphyx**
-
-Where my precision lives.
-This is where I build highly optimized tools — from color science experiments to display calibration logic to advanced utility libraries.
-The lab where performance is king and clarity is religion.
-
-### **📘 Life & Verity**
-
-A place for thought — structured writing, explanations, and clarity-driven essays.
-I explore psychology, cognition, patterns, and the machinery of human behavior.
-
-### **🎨 Couleur Verse**
-
-A creative space for color exploration, palettes, gradients, and visual harmony.
-This is where engineering meets art with no rules and no boundaries.
+I explore circuits, color spaces, psychology, and software architecture the same way some people explore forests. Everything is a puzzle worth poking.
 
 ---
 
-## **🛠️ Tech I Play With (and obsess over)**
+## 🧠 **What drives my work**
 
-* **C++ (C++20/23)** — templates, systems, performance-heavy logic
-* **JavaScript, HTML, CSS** — scratch-built websites, no frameworks
-* **TypeScript** — when the project deserves strictness
-* **Color science**, HDR workflows, tone mapping, linalg
-* **System architecture**, high-performance algorithms
-* **Generative design**, AI-assisted creation, creative tooling
+Performance makes me smile.
+Clarity keeps me honest.
+Expression keeps me curious.
 
-I like building things “from scratch” — even when the world says "use a library."
-The fun is in understanding every layer.
+I’m obsessed with minimal, handcrafted systems—no bulky stacks, no unnecessary dependencies, just clean logic and steady refinement. Every project I ship tries to answer one question:
+
+**Can engineering and art shake hands without making things messy?**
 
 ---
 
-## **🔭 My Philosophy**
+## 🚀 **Projects I’m shaping**
 
-I see myself as an engineer shaped by curiosity and a creator shaped by discipline.
-Systems excite me. Colors calm me. Music resets me.
-I’m trying to build an ecosystem — not a company or product — but a **software empire of ideas**.
+### **LEACB**
 
-And yes, I like calling myself an idiot sometimes. Not as an insult, but as a reminder that learning never stops.
+A fast, minimal hub for everything I create.
+Pure HTML/CSS/JS—no frameworks, no fluff.
+My identity in one page, designed like a sharp, quiet blade.
 
 ---
 
-## **📬 Connect**
+### **Auric Artisan**
 
-* **Portfolio:** [https://leacb.com](https://leacb.com)
-* **Email:** [hello@leacb.com](mailto:hello@leacb.com)
-* **LinkedIn:** [Chiragb855](https://www.linkedin.com/in/chiragb855)
-* **Twitter/X:** [Chiragb855](https://twitter.com/chiragb855)
+A tiny universe of visual experiments.
+Printable art, covers, stickers, color-driven aesthetics.
+Where my love for psychology and design play together.
+
+---
+
+### **Crygraphyx**
+
+This is my lab.
+Color science, HDR tone mapping, display calibration logic.
+C++20/23 core utilities, high-precision modules, and experiments that try to bend pixels to my will.
+
+---
+
+### **Life & Verity**
+
+My thinking space.
+Short essays, long thoughts, and explorations of how minds work.
+A structured, honest attempt to understand complexity.
+
+---
+
+### **Couleur Verse**
+
+My playground for color harmony.
+Palettes, gradients, emotional hues.
+A blend of math and mood.
+
+---
+
+## 🛠️ **Tech & tools I enjoy**
+
+* **C++20/23** — templates, systems, performance engineering
+* **JavaScript / HTML / CSS** — handcrafted, framework-free builds
+* **TypeScript** — when strict structure feels right
+* **Color science** — CAM models, tone mapping, gamut logic
+* **Algorithm design** — linalg, optimization, text ranking
+* **System architecture** — modular, predictable, scalable
+* **Generative design & AI tooling**
+
+I build from scratch not because it’s heroic, but because it teaches me things that shortcuts hide.
+
+---
+
+## 🎯 **What I’m really trying to build**
+
+Not a company.
+Not a product line.
+Something stranger and more personal:
+
+**A software empire of ideas.**
+
+A connected ecosystem of tools, art, systems, and thoughts—all sharpening each other.
+
+Also, yes—I call myself an idiot occasionally. That’s just my way of staying teachable.
+
+---
+
+## 📫 **Links**
+
+**Portfolio:** [https://leacb.com](https://leacb.com)
+**Email:** [hello@leacb.com](mailto:hello@leacb.com)
+**LinkedIn:** [https://www.linkedin.com/in/chiragb855](https://www.linkedin.com/in/chiragb855)
+**Twitter/X:** [https://twitter.com/chiragb855](https://twitter.com/chiragb855)
+
+Just tell me which vibe you want next.
