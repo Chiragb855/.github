@@ -92,9 +92,9 @@ Also, yes—I call myself an idiot occasionally. That’s just my way of staying
 
 ## 📫 **Links**
 
-**Portfolio:** [https://leacb.com](https://leacb.com)
-**Email:** [hello@leacb.com](mailto:hello@leacb.com)
-**LinkedIn:** [https://www.linkedin.com/in/chiragb855](https://www.linkedin.com/in/chiragb855)
-**Twitter/X:** [https://twitter.com/chiragb855](https://twitter.com/chiragb855)
+- **Portfolio:** [https://leacb.com](https://leacb.com)
+- **Email:** [hello@leacb.com](mailto:hello@leacb.com)
+- **LinkedIn:** [https://www.linkedin.com/in/chiragb855](https://www.linkedin.com/in/chiragb855)
+- **Twitter/X:** [https://twitter.com/chiragb855](https://twitter.com/chiragb855)
 
 Just tell me which vibe you want next.
