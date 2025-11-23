@@ -20,48 +20,6 @@ I’m obsessed with minimal, handcrafted systems—no bulky stacks, no unnecessa
 
 ---
 
-## 🚀 **Projects I’m shaping**
-
-### **LEACB**
-
-A fast, minimal hub for everything I create.
-Pure HTML/CSS/JS—no frameworks, no fluff.
-My identity in one page, designed like a sharp, quiet blade.
-
----
-
-### **Auric Artisan**
-
-A tiny universe of visual experiments.
-Printable art, covers, stickers, color-driven aesthetics.
-Where my love for psychology and design play together.
-
----
-
-### **Crygraphyx**
-
-This is my lab.
-Color science, HDR tone mapping, display calibration logic.
-C++20/23 core utilities, high-precision modules, and experiments that try to bend pixels to my will.
-
----
-
-### **Life & Verity**
-
-My thinking space.
-Short essays, long thoughts, and explorations of how minds work.
-A structured, honest attempt to understand complexity.
-
----
-
-### **Couleur Verse**
-
-My playground for color harmony.
-Palettes, gradients, emotional hues.
-A blend of math and mood.
-
----
-
 ## 🛠️ **Tech & tools I enjoy**
 
 * **C++20/23** — templates, systems, performance engineering
