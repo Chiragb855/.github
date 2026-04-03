@@ -63,19 +63,6 @@ Currently building a **Color Science Engine** in C++ with WebAssembly + Vulkan v
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chiragb855&show_icons=true&hide_border=true&bg_color=050510&title_color=00f0ff&icon_color=b44aff&text_color=7777aa&ring_color=00f0ff" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chiragb855&hide_border=true&background=050510&ring=00f0ff&fire=b44aff&currStreakLabel=00f0ff&sideLabels=7777aa&currStreakNum=e0e0ff&sideNums=e0e0ff&dates=7777aa" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragb855&layout=compact&hide_border=true&bg_color=050510&title_color=00f0ff&text_color=7777aa" height="140" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🏗️ Featured Project
 
 **[LEACB Portfolio](https://leacb.com)** — A futuristic, game-like interactive portfolio built with Three.js, WebGL post-processing bloom, volumetric particles, and advanced CSS animations. Features floating 3D navigation panels, mini-games, a 13-post blog system, and an HUD overlay.
